@@ -21,5 +21,7 @@ The commands are described in below can be used in the system:
 json.h and json.c are the libraries that are used to parse JSON object.
 
 Compilation of the files are in that format:
+
 -gcc server.c -o server.out -lpthread
+
 -gcc client.c -o client.out -lpthread
