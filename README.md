@@ -1,6 +1,6 @@
 # Socket-Programming
 
-This is a instant messaging application programmed in C.
+This is an instant messaging application programmed in C.
 
 Server executes commands which are given by clients, controls and manages the system. When the client connects successfully to the server, they enter their private phone number initially. Then they become defined in the server system.
 
